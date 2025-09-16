@@ -1,0 +1,14 @@
+{
+  "name": "Parsec",
+  "type": "auto",
+  "package": "com.parsec.app",
+  "index": "index.html",
+  "icon": "icon.png",
+  "background": "#000000",
+  "wininfo": {
+    "title": "Parsec",
+    "width": "1280px",
+    "height": "720px",
+    "resizable": true
+  }
+}
